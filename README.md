@@ -5,71 +5,47 @@ Backend Software Engineer • Distributed Systems • Java & Go
 </p>
 
 <p align="center">
-Building scalable backend systems, distributed architectures, and real-time infrastructure.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Distributed+Systems+Engineer;Java+%7C+Go+%7C+Kafka+%7C+Redis;Low+Latency+Systems;450%2B+LeetCode+Problems+Solved"/>
 </p>
+
+---
+
+## 🚀 About Me
+
+💻 Backend Software Engineer building **high-scale distributed systems**
+
+⚡ Designed backend infrastructure handling **300K+ concurrent users**
+
+🧠 Skilled in **Java, Go, Kafka, Redis, Microservices**
+
+📚 Strong problem solver with **450+ LeetCode problems**
+
+🎯 Passionate about **system design & low-latency systems**
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Distributed+Systems+Engineer;Java+%7C+Go+%7C+Kafka+%7C+Redis;Low+Latency+Backend+Systems;System+Design+Enthusiast"/>
+
+<img src="https://skillicons.dev/icons?i=java,go,cpp,ts" />
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mongodb,redis" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins" />
+
 </p>
 
 ---
 
-# 🚀 About Me
-
-💻 Backend Software Engineer with **1+ year of production experience**
-
-⚡ Designed backend systems handling **300,000+ concurrent users**
-
-🧠 Experienced in **Distributed Systems, Kafka, Redis, Microservices**
-
-⚙️ Focused on **low-latency backend infrastructure**
-
-📚 Solved **450+ LeetCode problems**
-
-🎯 Interested in **high-scale backend architecture & system design**
-
----
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,go,cpp,ts"/>
-</p>
-
-### ⚙️ Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-<img src="https://img.shields.io/badge/WebSockets-6DB33F?style=for-the-badge"/>
-</p>
-
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins"/>
-</p>
-
----
-
-# 🧠 Backend & System Design Interests
+# 🧠 System Design Interests
 
 ⚡ Distributed Systems  
 ⚡ Event Driven Architecture  
 ⚡ Microservices  
-⚡ Real-Time Systems  
-⚡ High Throughput Backend Systems  
+⚡ High Throughput Systems  
 ⚡ Concurrency & Multithreading  
-⚡ Low Latency Infrastructure  
+⚡ Real-Time Infrastructure  
 
 ---
 
@@ -77,55 +53,55 @@ Building scalable backend systems, distributed architectures, and real-time infr
 
 ## ⚡ GoRedis
 
-A **Redis-compatible in-memory key-value store written in Go**
+Redis-compatible **in-memory key value store built in Go**
 
-### Key Features
+Features
 
-🚀 Redis Serialization Protocol over TCP  
-⚡ Concurrent client handling using **goroutines**  
-⏳ TTL and expiration support  
-🔁 Background expiry sweeps  
-📈 Benchmarked at **10k+ operations/sec**
+• Redis Serialization Protocol over TCP  
+• Concurrent clients using goroutines  
+• TTL + expiration support  
+• Background expiry sweeps  
+• Benchmarked **10k+ ops/sec**
 
-Repository  
+Repo  
 https://github.com/ArnavBuild04/GoRedis
 
 ---
 
 ## 🏥 Healer Microservices
 
-A **distributed healthcare platform using microservices architecture**
+Distributed healthcare platform built using **microservices architecture**
 
-### Architecture
+Architecture
 
 Auth Service  
 Patient Service  
 Billing Service  
 
-### Features
+Features
 
-🔐 JWT authentication  
-⚡ gRPC inter-service communication  
-📡 Kafka event streaming  
-🐳 Dockerized deployment  
+• JWT Authentication  
+• gRPC inter-service communication  
+• Kafka event streaming  
+• Docker deployment
 
-Repository  
+Repo  
 https://github.com/ArnavBuild04/HealerMicroservices
 
 ---
 
-# 🧩 Problem Solving
+# 🧩 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/arnavat3?theme=dark&font=Fira%20Code&ext=contest"/>
+
+<a href="https://leetcode.com/u/arnava_t3/">
+<img src="https://leetcard.jacoblin.cool/arnava_t3?theme=dark&font=Fira%20Code&ext=contest" />
+</a>
+
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
-</p>
-
-<p align="center">
-Passionate about solving challenging algorithmic problems and strengthening system design fundamentals.
 </p>
 
 ---
@@ -133,15 +109,13 @@ Passionate about solving challenging algorithmic problems and strengthening syst
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArnavBuild04&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBuild04&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ArnavBuild04&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBuild04&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBuild04&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBuild04&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
@@ -149,14 +123,17 @@ Passionate about solving challenging algorithmic problems and strengthening syst
 # 🌐 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/arnav-anant  
+https://linkedin.com/in/arnav-anant
+
+LeetCode  
+https://leetcode.com/u/arnava_t3/
 
 GitHub  
-https://github.com/ArnavBuild04  
+https://github.com/ArnavBuild04
 
 Email  
-arnavanant04@gmail.com  
+arnavanant04@gmail.com
 
 ---
 
-⭐ Always excited to collaborate on **scalable backend infrastructure and distributed systems projects**
+⭐ Interested in building **scalable backend systems and distributed architectures**
