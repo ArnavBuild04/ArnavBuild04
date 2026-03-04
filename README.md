@@ -107,10 +107,26 @@ Billing Service
 🔐 JWT authentication  
 ⚡ gRPC inter-service communication  
 📡 Kafka event streaming  
-🐳 Dockerized deployment
+🐳 Dockerized deployment  
 
 Repository  
 https://github.com/ArnavBuild04/HealerMicroservices
+
+---
+
+# 🧩 Problem Solving
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/arnavat3?theme=dark&font=Fira%20Code&ext=contest"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+</p>
+
+<p align="center">
+Passionate about solving challenging algorithmic problems and strengthening system design fundamentals.
+</p>
 
 ---
 
@@ -130,33 +146,17 @@ https://github.com/ArnavBuild04/HealerMicroservices
 
 ---
 
-# 🧩 Problem Solving
-
-🧠 Solved **450+ LeetCode problems**
-
-Strong foundation in:
-
-• Data Structures  
-• Algorithms  
-• System Design  
-• Distributed Systems  
-
-LeetCode  
-https://leetcode.com/u/arnavat3
-
----
-
 # 🌐 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/arnav-anant
+https://linkedin.com/in/arnav-anant  
 
 GitHub  
-https://github.com/ArnavBuild04
+https://github.com/ArnavBuild04  
 
 Email  
-arnavanant04@gmail.com
+arnavanant04@gmail.com  
 
 ---
 
-⭐ Always open to collaborating on **scalable backend infrastructure projects**
+⭐ Always excited to collaborate on **scalable backend infrastructure and distributed systems projects**
