@@ -47,49 +47,6 @@ Backend Software Engineer • Distributed Systems • Java & Go
 ⚡ Concurrency & Multithreading  
 ⚡ Real-Time Infrastructure  
 
----
-
-# 📌 Featured Projects
-
-## ⚡ GoRedis
-
-Redis-compatible **in-memory key value store built in Go**
-
-Features
-
-• Redis Serialization Protocol over TCP  
-• Concurrent clients using goroutines  
-• TTL + expiration support  
-• Background expiry sweeps  
-• Benchmarked **10k+ ops/sec**
-
-Repo  
-https://github.com/ArnavBuild04/GoRedis
-
----
-
-## 🏥 Healer Microservices
-
-Distributed healthcare platform built using **microservices architecture**
-
-Architecture
-
-Auth Service  
-Patient Service  
-Billing Service  
-
-Features
-
-• JWT Authentication  
-• gRPC inter-service communication  
-• Kafka event streaming  
-• Docker deployment
-
-Repo  
-https://github.com/ArnavBuild04/HealerMicroservices
-
----
-
 # 🧩 LeetCode
 
 <p align="center">
