@@ -1,158 +1,135 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=3FB950&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Arnav+Anant;Backend+Engineer+%40+Junglee+Games" alt="Arnav Anant" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003d1a,100:0d1117&height=200&section=header&text=ARNAV%20ANANT&fontSize=60&fontColor=3fb950&fontAlignY=55&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems&descSize=16&descAlignY=75&descColor=7ee787&animation=twinkling&stroke=3fb950&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-anant)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArnavBuild04)
-[![LeetCode](https://img.shields.io/badge/LeetCode_250%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/arnava_t3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arnavanant04@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=480&lines=300K%2B+Concurrent+Users+%E2%9A%A1+Sub-ms+Latency;Java+%C2%B7+Go+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+gRPC;0+Mis-assignment+Incidents+%E2%80%94+Ever;450%2B+LeetCode+%C2%B7+CGPA+9.1%2F10" alt="typing" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-anant-3290032a2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode_450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arnava_t3/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavanant04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavBuild04)
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-```go
-Engineer{
-  Name:    "Arnav Anant",
-  Role:    "SDE — Backend",
-  Company: "Junglee Games (10M+ Downloads)",
-  Stack:   ["Java", "Go", "Kafka", "Redis", "gRPC"],
-  Focus:   "Scaling to 300K+ concurrent users",
-  CGPA:    9.1,
-}
+### ⚡ LIVE METRICS
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+║  🟢  300K+  Concurrent Users         ║
+║  ⚡  <100ms  API Latency  (p99)       ║
+║  🎯  sub-ms  Assignment Latency       ║
+║  🧠     0    Mis-assignment Incidents  ║
+║  📉   40%   Memory Reduction          ║
+║  🚫   90%   Moderation Latency Cut    ║
+╚══════════════════════════════════════╝
 ```
 
----
-
-## `$ cat metrics.json`
-
-| Metric | Value |
-|---|---|
-| 🟢 Concurrent Users | `300,000+` |
-| ⚡ API Latency (p99) | `< 100ms` |
-| 🎯 Assignment Latency | `sub-millisecond` |
-| 🔥 Production Uptime | `99.95%` |
-| 🧠 Mis-assignment Incidents | `0 — ever` |
-| 📉 Memory Reduction | `40%` |
-| 🚫 Moderation Latency Cut | `10ms → <1ms` |
-| 💻 LeetCode Problems | `250+` |
-| 🎓 CGPA | `9.1 / 10` |
+</div>
 
 ---
 
-## `$ systemctl status career`
+<div align="center">
 
-**🟢 Junglee Games — SDE Backend** *(Sep 2024 – Present)*
-- Matchmaking engine serving **300K+ users** with sub-ms assignment latency and **0 mis-assignment incidents ever**
-- Kafka chat platform for **100K+ DAU** — LRU cache cut latency from 10ms → <1ms (90% reduction)
-- Atomic Lua scripts with 3-phase commit over a **single network round-trip**, 0 data-consistency bugs
-- Geo-aware matching via geospatial indexing + bit-packed state — **40% memory reduction**
+### 🏢 WHERE I BUILD
 
-**✅ Marine Edge — Founding SDE Backend** *(Jan 2024 – Apr 2024)*
-- Solo backend engineer: Spring Boot platform serving **1K+ students** with live classes & leaderboards
-- Razorpay idempotent retry — payment failures **↓ 15%**
-- PostgreSQL + cache tier: **200ms → 140ms** (30% faster queries)
-- AWS EC2 + Jenkins blue-green: **99.9% uptime**, release time **↓ 70%**
+</div>
+
+**🟢 Junglee Games** — SDE Backend *(Sep 2024 – Present)*
+
+> Real-money gaming · 10M+ downloads · Production at scale
+
+- ⚡ Matchmaking engine — `300K+ users`, sub-ms assignment, **0 errors ever**
+- 💬 Kafka chat platform — `100K+ DAU`, LRU cache → latency `10ms → <1ms`
+- 🔒 Atomic Lua + 3-phase commit — single round-trip, **0 consistency bugs**
+- 🌍 Geo-aware matching + bit-packed state — **40% memory saved**
+
+**✅ Marine Edge** — Founding SDE *(Jan – Apr 2024)*
+
+> Solo backend: Spring Boot · `1K+ students` · **99.9% uptime** · Release time `↓ 70%`
 
 ---
 
-## `$ ls ~/tech-stack/`
+<div align="center">
 
-**Languages**
+### 🛠 STACK
+
+</div>
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Databases & Messaging**
-
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**DevOps & Cloud**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Observability**
-
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
-![Coralogix](https://img.shields.io/badge/Coralogix-FF69B4?style=flat-square)
-
----
-
-## `$ cat projects/pinned.json`
-
-**🔴 [GoRedis](https://github.com/ArnavBuild04)**
-> Wire-compatible Redis clone in Go over raw TCP · `10K+ ops/sec` · Full RESP protocol · Goroutines
-
-**🏥 [HealerMicroservices](https://github.com/ArnavBuild04)**
-> Distributed healthcare platform · JWT auth · gRPC sync · Kafka async · Docker Compose
-
----
-
-## `$ gh stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArnavBuild04&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&bg_color=0d1117&rank_icon=github&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBuild04&theme=github-dark-blue&hide_border=true&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950&background=0d1117" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBuild04&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950&text_color=e6edf3&bg_color=0d1117&langs_count=8"/>
-
-<br/>
-
-<a href="https://leetcode.com/u/arnava_t3/">
-  <img src="https://leetcard.jacoblin.cool/arnava_t3?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=8"/>
-</a>
 
 </div>
 
 ---
 
-## `$ ping arnav --connect`
+<div align="center">
 
-```
-Open to: Full-time SWE roles • Backend • Distributed Systems
-Response time: <1ms  |  Packet loss: 0%
-```
+### 🚀 PROJECTS
+
+</div>
+
+| | Project | Highlight |
+|---|---|---|
+| 🔴 | **[GoRedis](https://github.com/ArnavBuild04)** | Redis clone in Go · `10K+ ops/sec` · Full RESP over raw TCP |
+| 🏥 | **[HealerMicroservices](https://github.com/ArnavBuild04)** | Distributed healthcare · gRPC + Kafka + JWT + Docker |
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-anant)
-[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavanant04@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grind_Log-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arnava_t3/)
+### 📊 STATS
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArnavBuild04&color=3fb950&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://github-readme-stats.vercel.app/api?username=ArnavBuild04&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&bg_color=0d1117&rank_icon=github&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBuild04&theme=github-dark-blue&hide_border=true&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950&background=0d1117" width="48%"/>
 
-<br/>
+<br/><br/>
 
-*"The best systems are the ones that never need attention."*
+<a href="https://leetcode.com/u/arnava_t3/">
+<img src="https://leetcard.jacoblin.cool/arnava_t3?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=8&width=480"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBuild04&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:003d1a&height=100&section=footer&text=Systems%20that%20never%20sleep&fontSize=16&fontColor=3fb950&fontAlignY=65&animation=twinkling" width="100%"/>
+
+![Views](https://komarev.com/ghpvc/?username=ArnavBuild04&color=3fb950&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
