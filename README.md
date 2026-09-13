@@ -1,59 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d24,100:0d1117&height=210&section=header&text=ARNAV%20ANANT&fontSize=58&fontColor=3fb950&fontAlignY=38&desc=%3E%20BACKEND_ENGINEER.exe%20%E2%80%94%20DISTRIBUTED%20SYSTEMS%20BUILD&descSize=14&descAlignY=58&descColor=7ee787&animation=twinkling&stroke=3fb950&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:132030,100:0d1117&height=190&section=header&text=Arnav%20Anant&fontSize=48&fontColor=58a6ff&fontAlignY=42&desc=Backend%20Engineer%20%C2%B7%20Distributed%20Systems%20%26%20AI&descSize=15&descAlignY=62&descColor=8ecbff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=500&color=7EE787&center=true&vCenter=true&width=620&lines=%3E+LOADING+PLAYER_PROFILE...+%5BOK%5D;%3E+CLASS%3A+Backend+%2F+AI+Systems+Engineer;%3E+GUILD%3A+Junglee+Games+(Flutter+Entertainment);%3E+PARTY%3A+Java+%C2%B7+Go+%C2%B7+Python+%C2%B7+Kafka+%C2%B7+Redis;%3E+STATUS%3A+%F0%9F%9F%A2+ONLINE" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=8ECBFF&center=true&vCenter=true&width=600&lines=Building+distributed+systems+at+300K%2B+concurrent+users;Designing+multi-agent+AI+systems+with+LangGraph+%2B+RAG;Java+%C2%B7+Go+%C2%B7+Python+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+Kubernetes" alt="typing"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-anant-3290032a2/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/i_am_anant/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavBuild04)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavanant04@gmail.com)
-
-</div>
-
-<div align="center">
-
-╔══════════════════════════════════════════════════╗
-
-**🏆 ACHIEVEMENTS UNLOCKED**
-
-`0 Mis-assignment Incidents` · `300K+ Concurrent Users` · `40% Memory Optimized` · `450+ LeetCode Solved`
-
-╚══════════════════════════════════════════════════╝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-anant-3290032a2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/i_am_anant/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArnavBuild04)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arnavanant04@gmail.com)
 
 </div>
 
 <br/>
 
-### 🧭 ACTIVE QUEST
+### About
 
-> **Junglee Games** (Flutter Entertainment) — Backend Software Engineer · *Sep 2024 → Present*
-> Slaying latency at 300K+ concurrent users across a poker platform live in 180 countries — real-time matchmaking, saga-based chip transactions, event-driven chat moderation. Side quest in progress: multi-agent AI systems with **LangGraph** — planner/specialist/synthesis orchestration, RAG over runbooks, human-approval gates before any state-changing action.
+Backend Software Engineer at **Junglee Games** (Flutter Entertainment), building real-time matchmaking, saga-based transaction processing, and event-driven infrastructure for a poker platform serving **300K+ concurrent users** across 180 countries. Alongside this, I design **multi-agent AI systems** with LangGraph — planner/specialist/synthesis orchestration, RAG over domain knowledge, and human-in-the-loop safety gates for production-grade agentic workflows.
 
 <br/>
 
-### 🗡️ SKILL TREE
+### Skills
 
 <div align="center">
 
-**⚔️ Core Weapons**
+**Languages**
+![Java](https://progress-bar.dev/88/?title=Java&width=200&color=58a6ff)
+![Go](https://progress-bar.dev/92/?title=Go&width=200&color=58a6ff)
+![Python](https://progress-bar.dev/78/?title=Python&width=200&color=58a6ff)
 
-![Java](https://progress-bar.dev/88/?title=Java&width=180&color=ED8B00)
-![Go](https://progress-bar.dev/92/?title=Go&width=180&color=00ADD8)
-![Python](https://progress-bar.dev/78/?title=Python&width=180&color=3776AB)
+**Distributed Systems & Infra**
+![Kafka](https://progress-bar.dev/85/?title=Kafka&width=200&color=79c0ff)
+![Redis](https://progress-bar.dev/88/?title=Redis&width=200&color=79c0ff)
+![Kubernetes](https://progress-bar.dev/75/?title=Kubernetes&width=200&color=79c0ff)
 
-**🔮 Arcane Arts (AI / Agentic)**
-
-![LangGraph](https://progress-bar.dev/80/?title=LangGraph&width=180&color=1C3C3C)
-![RAG](https://progress-bar.dev/78/?title=RAG&width=180&color=6e40c9)
-
-**🛡️ Dungeon Gear (Infra)**
-
-![Kafka](https://progress-bar.dev/85/?title=Kafka&width=180&color=231F20)
-![Redis](https://progress-bar.dev/88/?title=Redis&width=180&color=DC382D)
-![Kubernetes](https://progress-bar.dev/75/?title=K8s&width=180&color=326CE5)
+**AI / Agentic Systems**
+![LangGraph](https://progress-bar.dev/80/?title=LangGraph&width=200&color=a5d6ff)
+![RAG](https://progress-bar.dev/78/?title=RAG&width=200&color=a5d6ff)
 
 </div>
 
@@ -77,22 +61,22 @@
 
 <br/>
 
-### 👑 BOSS FIGHTS CLEARED
+### Projects
 
-| Boss | Difficulty | Loot Dropped |
-|---|---|---|
-| 🤖 **[OpsPilot](https://github.com/ArnavBuild04)** | `★★★★☆` | LangGraph multi-agent ops copilot — diagnoses Kafka/Redis/K8s incidents, RAG over runbooks, human-approval gate before any remediation fires |
-| 🎙️ **[VoiceDesk](https://github.com/ArnavBuild04)** | `★★★★☆` | LangGraph voice AI support system — triage + RAG-grounded specialist agents over WebRTC, streaming STT/TTS |
-| 🔴 **[GoRedis](https://github.com/ArnavBuild04)** | `★★★☆☆` | Redis clone in Go — RESP protocol over raw TCP, 10K+ ops/sec |
+| Project | Description |
+|---|---|
+| **[OpsPilot](https://github.com/ArnavBuild04)** | LangGraph multi-agent ops copilot — diagnoses Kafka/Redis/K8s incidents, grounded via RAG over runbook history, with a human-approval gate before any remediation fires |
+| **[VoiceDesk](https://github.com/ArnavBuild04)** | LangGraph voice AI support system — triage and RAG-grounded specialist agents over a self-hosted WebRTC interface with streaming STT/TTS |
+| **[GoRedis](https://github.com/ArnavBuild04)** | A Redis clone written in Go — RESP protocol over raw TCP, handling 10K+ ops/sec |
 
 <br/>
 
-### 📊 PLAYER STATS
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArnavBuild04&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&bg_color=0d1117&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBuild04&theme=github-dark-blue&hide_border=true&stroke=3fb950&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950&background=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArnavBuild04&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBuild04&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" height="165"/>
 
 <br/><br/>
 
@@ -102,7 +86,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBuild04&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBuild04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -110,8 +94,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:0a3d24&height=110&section=footer&animation=twinkling"/>
-
-**`PRESS START TO CONTINUE...`** 🕹️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:132030&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
